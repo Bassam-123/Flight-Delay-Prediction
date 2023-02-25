@@ -1,2 +1,2 @@
 # Flight Delay Prediction
-- Formulated decision tree analysis to build a predictive model to predict the amount of delays on the arrival destination. 
+- Formulated data classification analysis to build a model to predict the amount of delays to the arrival destination. 
